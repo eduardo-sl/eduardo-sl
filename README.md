@@ -3,7 +3,7 @@
 ### About me:
 My name is Eduardo Spinelli de Lima <br> 
 
-- 🏢 I'm a Senior Full-Stack Developer working at [Globo](https://www.linkedin.com/company/globo/about/)
+- 🏢 I'm a Senior Software Developer working at [Globo](https://www.linkedin.com/company/globo/about/)
 - 👨🏽‍💻 My main stack is `.go`, `.java`, and `.js`
 - ⚙️ I use daily **docker**, **redis**, **mongodb**, **k8s**, **gcp**
 - 💬 Ask me about **development** and **system design**
